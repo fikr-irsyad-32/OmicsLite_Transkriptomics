@@ -1,1 +1,0 @@
-# OmicsLite_Transkriptomik
