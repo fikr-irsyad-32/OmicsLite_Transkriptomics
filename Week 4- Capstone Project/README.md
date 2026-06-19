@@ -43,11 +43,9 @@ https://www.genome.jp/kegg/mapper
 Density plot menunjukkan bahwa kelompok Cancer memiliki pola distribusi yang mirip dan tumpang tindih dengan kelompok Control (Gambar 1). Plot UMAP juga menunjukkan bahwa secara umum tidak terdapat pemisahan yang jelas antara kedua kelompok tersebut, meskipun sebagian kecil sampel Control tampak sebagai outlier (Gambar 2). Secara keseluruhan, kedua plot tersebut menunjukkan bahwa profil ekspresi global kedua kelompok relatif sebanding dan tidak memperlihatkan pola pemisahan yang mengarah pada perbedaan teknis yang mencolok. Heatmap 50 DEG teratas (berdasarkan adj.P.Val) menampilkan pola ekspresi gen pada seluruh sampel dan juga menunjukkan bahwa pemisahan klaster antara Control dan Cancer belum tampak tegas (Gambar 3).
 
 ![Density](2.%20DEG%20R/Density.png)
-
 Gambar 1. Density Plot distribusi nilai ekspresi (log₂) seluruh gen
 
 ![UMAP](2.%20DEG%20R/UMAP.png)
-
 Gambar 2. Plot UMAP: Control vs Cancer
 
 ![Heatmap](2.%20DEG%20R/Heatmap.png)
